@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FLPsdInput_Example' do
+  pod 'FLPsdInput', :path => '../'
+
+  target 'FLPsdInput_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
