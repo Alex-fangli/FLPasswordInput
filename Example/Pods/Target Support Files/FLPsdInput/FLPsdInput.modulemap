@@ -1,0 +1,6 @@
+framework module FLPsdInput {
+  umbrella header "FLPsdInput-umbrella.h"
+
+  export *
+  module * { export * }
+}

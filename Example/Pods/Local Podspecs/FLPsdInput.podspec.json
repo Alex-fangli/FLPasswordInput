@@ -1,0 +1,22 @@
+{
+  "name": "FLPsdInput",
+  "version": "0.1.0",
+  "summary": "A short description of FLPsdInput.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/849198993@qq.com/FLPsdInput",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "849198993@qq.com": "liangxiaosong123@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/849198993@qq.com/FLPsdInput.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FLPsdInput/Classes/**/*"
+}

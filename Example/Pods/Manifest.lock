@@ -1,0 +1,16 @@
+PODS:
+  - FLPsdInput (0.1.0)
+
+DEPENDENCIES:
+  - FLPsdInput (from `../`)
+
+EXTERNAL SOURCES:
+  FLPsdInput:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FLPsdInput: bd996c8eb9db9d5c896e608cdde7d525b5aa439d
+
+PODFILE CHECKSUM: faf11c9d3308434f8554a8c0205bf9bbc03f357b
+
+COCOAPODS: 1.5.3
